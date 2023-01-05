@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">NasaApp</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <!--Buttons-->
+    <string name="button_1_change_text">Szukaj gwiazd</string>
+    <string name="button_2_show_toast">Szukaj kosmitów</string>
+    <string name="button_3_show_second_activity">Pokaż drugie activity</string>
+    <string name="button_4_show_first_activity">Pokaż pierwsze activity</string>
+    <string name="button_5_show_wsb_page">Pokaż stronę WSB</string>
+    <!--Toast-->
+    <string name="toast_1_show_text">Odszukałem kosmitów - pracują na WSB!</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_manual_fragment">Czesc - poszukamy gwiazd ?</string>
+    <string name="hello_manual_fragment2">Odszukane gwiazdy !</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
